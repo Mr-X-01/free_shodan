@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
+
 import shodan
 import os
 import time
